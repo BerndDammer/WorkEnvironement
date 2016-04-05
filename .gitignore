@@ -1,0 +1,6 @@
+*.lst
+
+jrecreate/*
+!jrecreate/*.sh
+!jrecreate/*.bat
+
