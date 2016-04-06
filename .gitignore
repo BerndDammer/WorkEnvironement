@@ -4,3 +4,4 @@ jrecreate/*
 !jrecreate/*.sh
 !jrecreate/*.bat
 
+fx_test
