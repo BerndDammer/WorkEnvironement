@@ -1,1 +1,2 @@
-add trys for running fx on arm
+building jre with ccombining
+
