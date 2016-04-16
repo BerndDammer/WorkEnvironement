@@ -1,1 +1,1 @@
-unsuccessfull fx test
+add trys for running fx on arm

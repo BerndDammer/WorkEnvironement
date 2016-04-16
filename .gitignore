@@ -1,7 +1,14 @@
 *.lst
 
-jrecreate/*
-!jrecreate/*.sh
-!jrecreate/*.bat
 
+jrecreate/8u33/*
+!jrecreate/8u33/*.sh
+!jrecreate/8u33/*.bat
+jrecreate/8u6/*
+!jrecreate/8u6/*.sh
+!jrecreate/8u6/*.bat
+
+# directories outside THIS save
 fx_test
+OpenJFX_Arm
+us-122
