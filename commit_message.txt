@@ -1,3 +1,4 @@
-add magic page
+add docs and batches
+run JavaFX on raspi
 
 

@@ -1,9 +1,12 @@
 *.lst
 
 
-jrecreate/8u33/*
-!jrecreate/8u33/*.sh
-!jrecreate/8u33/*.bat
+jrecreate/8u33_old/*
+!jrecreate/8u33_old/*.sh
+!jrecreate/8u33_old/*.bat
+jrecreate/8u33_new/*
+!jrecreate/8u33_new/*.sh
+!jrecreate/8u33_new/*.bat
 jrecreate/8u6/*
 !jrecreate/8u6/*.sh
 !jrecreate/8u6/*.bat
@@ -16,3 +19,5 @@ us-122
 chriswhocodes
 combine
 gluon
+
+java_demos

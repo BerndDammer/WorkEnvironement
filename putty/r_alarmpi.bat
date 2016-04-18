@@ -1,1 +1,1 @@
-c:\PortableApps\PuTTYPortable\puttyportable alarm@alarmpi
+start c:\PortableApps\PuTTYPortable\puttyportable alarm@alarmpi
