@@ -1,4 +1,3 @@
-add docs and batches
-run JavaFX on raspi
+add firmware
 
 
