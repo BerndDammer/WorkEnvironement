@@ -12,12 +12,11 @@ jrecreate/8u6/*
 !jrecreate/8u6/*.bat
 
 # directories outside THIS save
-fx_test
-OpenJFX_Arm
 us-122
 
-chriswhocodes
 combine
-gluon
+combine_try1
 
+raspbian_jre
 java_demos
+jre_8u6
