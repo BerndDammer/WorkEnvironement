@@ -1,4 +1,5 @@
 *.lst
+*~lock*
 
 
 jrecreate/8u33_old/*
@@ -20,3 +21,4 @@ combine_try1
 raspbian_jre
 java_demos
 jre_8u6
+ubuntu
