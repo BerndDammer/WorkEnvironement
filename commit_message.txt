@@ -1,1 +1,1 @@
-cross compile fx 2 linux64
+fx compile armv7 -- missing binaries

@@ -12,6 +12,9 @@ jrecreate/8u6/*
 !jrecreate/8u6/*.sh
 !jrecreate/8u6/*.bat
 
+rt_results
+
+
 # directories outside THIS save
 us-122
 
