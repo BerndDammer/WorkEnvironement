@@ -1,1 +1,2 @@
-fx compile armv7 -- missing binaries
+add docs
+
