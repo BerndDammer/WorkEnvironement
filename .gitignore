@@ -11,17 +11,23 @@ jrecreate/8u33_new/*
 jrecreate/8u6/*
 !jrecreate/8u6/*.sh
 !jrecreate/8u6/*.bat
+jrecreate/8u91/*
+!jrecreate/8u91/*.sh
+!jrecreate/8u91/*.bat
 
-rt_results
 
 
 # directories outside THIS save
-us-122
-
-combine
 combine_try1
-
-raspbian_jre
 java_demos
 jre_8u6
+jre_b1
+jre_raspbian
+jre_xenial_takeouts
+jre_xenial_x
+jre_xenial_x2
+rt_results
 ubuntu
+us-122
+
+
