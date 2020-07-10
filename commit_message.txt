@@ -1,1 +1,1 @@
-add template
+remote hint doc
